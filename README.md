@@ -1,2 +1,1 @@
-# ISF-shaders
-free advanced ISF shaders with tunable parameters
+These are 44 advanced fractal and 3D ISF shaders I have heavily customized from shadertoy as well as some created from scratch. Releasing them under creative commons non-commercial license, free to use for live performances, vjing as well as modifying and releasing under same license.
